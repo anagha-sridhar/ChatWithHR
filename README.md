@@ -20,3 +20,4 @@ The engine dynamically executes the structured JSON instruction and performs req
 The output will dynamically generate analytical results, such as comparisons across years, countries, or organizational groups.
 
 
+Run the ChatWithHR.py file and when the agentic model appears, upload the file_v2.xlsx file to it. Then proceed to ask it questions. 
